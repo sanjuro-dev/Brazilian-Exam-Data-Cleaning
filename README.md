@@ -1,5 +1,5 @@
 # Documentação do Processo de Limpeza: Provão Paulista 2025 (SARESP)
-
+![Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d4/Prova_Paulista_logo.png)
 Este repositório contém o script SQL desenvolvido para tratar, padronizar e limpar os microdados do Provão Paulista de 2025. O objetivo principal do código é transformar a base bruta em uma tabela consolidada, pronta para análise ou importação em ferramentas de Business Intelligence.
 
 ## Como obter a base de dados original
